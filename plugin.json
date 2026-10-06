@@ -1,0 +1,11 @@
+{
+  "name": "deckcheck",
+  "author": "itspixelsoda",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["playtime", "statistics"],
+    "description": "Tracks play sessions on this device, shows statistics and exports them as a file.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
